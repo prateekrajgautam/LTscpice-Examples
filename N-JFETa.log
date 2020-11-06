@@ -1,0 +1,26 @@
+Circuit: * C:\Users\Prateek\Documents\LTspiceXVII\Prateek\N-JFETa.asc
+
+.dc sweep increment has wrong sign -- fixing...
+.OP point found by inspection.
+.step v1=0
+.step v1=-1
+.step v1=-2
+.step v1=-3
+
+Date: Fri Oct 16 15:40:36 2020
+Total elapsed time: 0.080 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 8012
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1:      13 opcodes  0.1/[0.0]/0.1
+Matrix Compiler2: off  [0.1]/0.1/0.1
+

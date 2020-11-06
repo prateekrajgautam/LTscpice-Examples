@@ -1,0 +1,24 @@
+Circuit: * C:\Program Files\LTC\LTspiceIV\LOW PASS FILTER CHARGING AND DISCHARGING.asc
+
+Limiting rise time of source v1 to 0.1
+Limiting fall time of source v1 to 0.1
+.OP point found by inspection.
+
+Date: Tue May 07 10:59:17 2013
+Total elapsed time: 0.000 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 808
+traniter = 808
+tranpoints = 405
+accept = 334
+rejected = 71
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 50 bytes object code size  0.2/0.2/[0.2]
+Matrix Compiler2: 175 bytes object code size  0.2/0.2/[0.2]
+
+
